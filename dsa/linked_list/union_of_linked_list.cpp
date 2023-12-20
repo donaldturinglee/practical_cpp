@@ -1,6 +1,6 @@
 /**
  * Title: Union of Linked Lists
- * Description: You will now be implementing the removeDuplicates() function. When a linked list is passed to this function, it removes any node which is a duplicate of another existing node.
+ * Description: Union and intersection are two of the most popular operations which can be performed on data sets. Now, you will be implementing them for linked lists! Let’s take a look at their definitions:
  * Author: Donald Lee
  */
 
