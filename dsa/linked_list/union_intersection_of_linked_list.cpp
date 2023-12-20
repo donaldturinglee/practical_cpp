@@ -5,8 +5,8 @@
  */
 
 string Union(LinkedList list1, LinkedList list2) {
-    if (list1.isEmpty()) return list2;
-    if (list2.isEmpty()) return list1;
+    if (list1.isEmpty()) return list2.elements();
+    if (list2.isEmpty()) return list1.elements();
 
     Node* start = list1.head;
     while (start->nextElement != nullptr) start = start->nextElement;
